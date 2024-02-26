@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Article_Api\\Article_Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "Article_Api"
+      },
+      {
+        "Name": "Writer_Api\\Writer_Api.csproj",
+        "Action": "Start",
+        "DebugTarget": "Writer.Api"
+      },
+      {
+        "Name": "ApiGateway\\ApiGateway.csproj",
+        "Action": "Start",
+        "DebugTarget": "http"
+      }
+    ]
+  }
+]
